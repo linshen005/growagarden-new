@@ -1,0 +1,828 @@
+[
+  {
+    "name": "Aloe Vera",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Apple",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Avocado",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Bamboo",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Banana",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Beanstalk",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Bee Balm",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Bell Pepper",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Bendboo",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Blood Banana",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Blue Lollipop",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Blueberry",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Bone Blossom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Boneboo",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Burning Bud",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cacao",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cactus",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Candy Blossom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Candy Sunflower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cantaloupe",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Carrot",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cauliflower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Celestiberry",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cherry Blossom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Chocolate Carrot",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Coconut",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cocovine",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Corn",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cranberry",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Crimson Vine",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Crocus",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Cursed Fruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Daffodil",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Dandelion",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Delphinium",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Dragon Fruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Dragon Pepper",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Durian",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Easter Egg",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Eggplant",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Elephant Ears",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Ember Lily",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Feijoa",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Firefly Fern",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Firework Flower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Fossilight",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Foxglove",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Glowshroom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Grape",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Green Apple",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Guanabana",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Hive Fruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Honeysuckle",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Horned Dinoshroom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Ice Cream Bean",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Kiwi (Crop)",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lavender",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lemon",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Liberty Lily",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lilac",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lily Of The Valley",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lime",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Loquat",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lotus",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Lumira",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Mango",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Manuka Flower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Mega Mushroom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Mint",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Moon Blossom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Moon Mango",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Moon Melon",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Moonflower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Moonglow",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Mushroom",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Nectar Thorn",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Nectarine",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Nectarshade",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Nightshade",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Noble Flower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Orange Tulip",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Papaya",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Paradise Petal",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Parasol Flower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Passionfruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Peace Lily",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Peach",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pear",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pepper",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pineapple",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pink Lily",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pink Tulip",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pitcher Plant",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Prickly Pear",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Pumpkin",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Purple Cabbage",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Purple Dahlia",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Rafflesia",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Raspberry",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Red Lollipop",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Rose",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Rosy Delight",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Soul Fruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Starfruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Stonebite",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Strawberry",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Succulent",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Sugar Apple",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Suncoil",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Sunflower",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Template:Crop/preload",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Tomato",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Traveler's Fruit",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Venus Fly Trap",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Violet Corn",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Watermelon",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "White Mulberry",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  },
+  {
+    "name": "Wild Carrot",
+    "basePrice": 0.0,
+    "baseWeight": 0.0,
+    "seedPrice": 0.0,
+    "rarity": ""
+  }
+]
