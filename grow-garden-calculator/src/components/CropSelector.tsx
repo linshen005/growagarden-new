@@ -1,6 +1,13 @@
 import { Badge } from "@/components/ui/badge";
-import { type Crop } from "@/data/crops";
 import Image from "next/image";
+
+interface Crop {
+  id: string;
+  name: string;
+  image: string;
+  baseValue?: number;
+  basePrice?: number;
+}
 
 interface CropSelectorProps {
   crops: Crop[];
@@ -18,14 +25,14 @@ export default function CropSelector({ crops, selectedCrop, onSelectCrop }: Crop
             <button
               key={crop.id}
               onClick={() => onSelectCrop(crop)}
-              className={`
-                flex flex-col items-center p-2 rounded-lg border transition-all hover:scale-105 aspect-square
+              className={
+                `flex flex-col items-center p-2 rounded-lg border transition-all hover:scale-105 aspect-square
                 ${selectedCrop?.id === crop.id
                   ? 'border-blue-400 bg-blue-900/40 shadow-md'
                   : 'border-gray-600 bg-gray-700/80 hover:border-gray-500 hover:bg-gray-600/80'
-                }
-              `}
-              title={`${crop.name} - ${crop.baseValue} Sheckles`}
+                }`
+              }
+              title={`${crop.name} - ${(crop.baseValue ?? crop.basePrice ?? 0)} Sheckles`}
             >
               <Image
                 src={crop.image}
@@ -41,7 +48,6 @@ export default function CropSelector({ crops, selectedCrop, onSelectCrop }: Crop
           ))}
         </div>
       </div>
-
       {/* 选中的作物信息 */}
       {selectedCrop && (
         <div className="mt-3 p-3 bg-gray-750 rounded-lg border border-gray-600">
@@ -56,13 +62,12 @@ export default function CropSelector({ crops, selectedCrop, onSelectCrop }: Crop
             <div className="flex-1">
               <h3 className="font-semibold text-white">{selectedCrop.name}</h3>
               <p className="text-sm text-gray-400">
-                Base Value: <span className="text-yellow-400">{selectedCrop.baseValue} Sheckles</span>
+                Base Value: <span className="text-yellow-400">{selectedCrop.baseValue ?? selectedCrop.basePrice ?? 0} Sheckles</span>
               </p>
             </div>
           </div>
         </div>
       )}
-
       {/* 滚动提示 */}
       <div className="text-center mt-2">
         <span className="text-xs text-gray-500">

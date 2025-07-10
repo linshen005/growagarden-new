@@ -1,11 +1,11 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { crops, type Crop } from "@/data/crops";
+import { getCrops } from "@/lib/getCrops";
 import { mutations, getMutationsByType, type Mutation } from "@/data/mutations";
 import CropSelector from "@/components/CropSelector";
 import MutationSelector from "@/components/MutationSelector";
@@ -13,7 +13,17 @@ import CalculatorResults from "@/components/CalculatorResults";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 
+// 定义 Crop 类型
+interface Crop {
+  id: string;
+  name: string;
+  image: string;
+  baseValue?: number;
+  basePrice?: number;
+}
+
 export default function Home() {
+  const [crops, setCrops] = useState<Crop[]>([]);
   const [selectedCrop, setSelectedCrop] = useState<Crop | null>(null);
   const [selectedMutations, setSelectedMutations] = useState<Mutation[]>([]);
   const [weight, setWeight] = useState<number>(2.85);
@@ -21,35 +31,37 @@ export default function Home() {
   const [friendBoost, setFriendBoost] = useState<number>(0);
   const [maxMutation, setMaxMutation] = useState<boolean>(false);
   const [cropSearch, setCropSearch] = useState<string>("");
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
+
+  useEffect(() => {
+    setLoading(true);
+    getCrops()
+      .then(data => setCrops(data))
+      .catch(() => setError("作物数据加载失败"))
+      .finally(() => setLoading(false));
+  }, []);
 
   const filteredCrops = useMemo(() => {
     if (!cropSearch) return crops;
     return crops.filter(crop =>
       crop.name.toLowerCase().includes(cropSearch.toLowerCase())
     );
-  }, [cropSearch]);
+  }, [cropSearch, crops]);
 
   const calculateValue = useMemo(() => {
     if (!selectedCrop) return 0;
-
-    const baseValue = selectedCrop.baseValue;
+    const baseValue = selectedCrop.baseValue ?? selectedCrop.basePrice ?? 0;
     let totalMultiplier = 1;
-
-    // Apply mutation multipliers
     selectedMutations.forEach(mutation => {
       totalMultiplier *= mutation.multiplier;
     });
-
-    // Apply friend boost
     if (friendBoost > 0) {
       totalMultiplier *= (1 + friendBoost / 100);
     }
-
-    // Apply max mutation bonus
     if (maxMutation) {
-      totalMultiplier *= 1.5; // 50% bonus for max mutation
+      totalMultiplier *= 1.5;
     }
-
     return Math.round(baseValue * weight * quantity * totalMultiplier);
   }, [selectedCrop, selectedMutations, weight, quantity, friendBoost, maxMutation]);
 
@@ -62,11 +74,13 @@ export default function Home() {
     setMaxMutation(false);
   };
 
+  if (loading) return <div className="text-center py-10">作物数据加载中...</div>;
+  if (error) return <div className="text-center py-10 text-red-500">{error}</div>;
+
   return (
     <div className="min-h-screen bg-gray-900 text-white">
       {/* Navigation */}
       <Navigation />
-
       {/* Header */}
       <header className="bg-gray-800 border-b border-gray-700 py-6">
         <div className="container mx-auto px-4">
@@ -78,7 +92,6 @@ export default function Home() {
           </p>
         </div>
       </header>
-
       <div className="container mx-auto p-4 space-y-4">
         {/* Crop Selection */}
         <Card className="bg-gray-800 border-gray-700">
@@ -101,7 +114,6 @@ export default function Home() {
             </div>
           </CardContent>
         </Card>
-
         {/* Calculator Inputs - 移到突变前面，让用户更快看到结果 */}
         <Card className="bg-gray-800 border-gray-700">
           <CardContent className="pt-4">
@@ -318,7 +330,6 @@ export default function Home() {
           </Card>
         </div>
       </div>
-
       {/* Footer */}
       <Footer />
     </div>
