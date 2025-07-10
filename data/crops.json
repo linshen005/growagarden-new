@@ -1,828 +1,814 @@
 [
   {
     "name": "Aloe Vera",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 69000.0,
+    "baseWeight": 5.5,
+    "seedPrice": 299.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Apple",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 275.0,
+    "baseWeight": 3.0,
+    "seedPrice": 3250.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Avocado",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 350.0,
+    "baseWeight": 6.5,
+    "seedPrice": 5000.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Bamboo",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 4000.0,
+    "baseWeight": 4.0,
+    "seedPrice": 4000.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Banana",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 1750.0,
+    "baseWeight": 1.5,
+    "seedPrice": 7000.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Beanstalk",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 28000.0,
+    "baseWeight": 10.0,
+    "seedPrice": 10000000.0,
+    "rarity": "[[File:PrismaticTier.gif|frameless|108x108px]]"
   },
   {
     "name": "Bee Balm",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 18000.0,
+    "baseWeight": 1.0,
+    "seedPrice": 179.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Bell Pepper",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 5500.0,
+    "baseWeight": 8.0,
+    "seedPrice": 55000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Bendboo",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 155000.0,
+    "baseWeight": 18.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Blood Banana",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 6000.0,
+    "baseWeight": 1.5,
+    "seedPrice": 200000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Blue Lollipop",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 50000.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Blueberry",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 20.0,
+    "baseWeight": 0.2,
+    "seedPrice": 400.0,
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Bone Blossom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 175000.0,
+    "baseWeight": 7.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "Transcendent"
   },
   {
     "name": "Boneboo",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 141141.0,
+    "baseWeight": 15.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Burning Bud",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 70000.0,
+    "baseWeight": 12.0,
+    "seedPrice": 40000000.0,
+    "rarity": "[[File:PrismaticTier.gif|frameless|108x108px]]"
   },
   {
     "name": "Cacao",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 12000.0,
+    "baseWeight": 8.0,
+    "seedPrice": 2500000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Cactus",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 3400.0,
+    "baseWeight": 7.0,
+    "seedPrice": 15000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Candy Blossom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 100000.0,
+    "baseWeight": 3.0,
+    "seedPrice": 10000000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Candy Sunflower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 80000.0,
+    "baseWeight": 1.5,
+    "seedPrice": 75000.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Cantaloupe",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 34000.0,
+    "baseWeight": 5.5,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Carrot",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 20.0,
+    "baseWeight": 0.28,
+    "seedPrice": 10.0,
+    "rarity": "[[File:CommonIcon.png|111px]]"
   },
   {
     "name": "Cauliflower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 40.0,
+    "baseWeight": 5.0,
+    "seedPrice": 1300.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Celestiberry",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 10000.0,
+    "baseWeight": 2.0,
+    "seedPrice": 15000000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Cherry Blossom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 500.0,
+    "baseWeight": 3.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Chocolate Carrot",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 11000.0,
+    "baseWeight": 0.28,
+    "seedPrice": 10000.0,
+    "rarity": "[[File:CommonIcon.png|111px]]"
   },
   {
     "name": "Coconut",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 400.0,
+    "baseWeight": 14.0,
+    "seedPrice": 6000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Cocovine",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 66666.0,
+    "baseWeight": 14.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Corn",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 40.0,
+    "baseWeight": 2.0,
+    "seedPrice": 1300.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Cranberry",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 3500.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Crimson Vine",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 1250.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Crocus",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 30000.0,
+    "baseWeight": 0.28,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Cursed Fruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 25570.0,
+    "baseWeight": 30.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Daffodil",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 1000.0,
+    "baseWeight": 0.2,
+    "seedPrice": 1000.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Dandelion",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 50000.0,
+    "baseWeight": 4.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Delphinium",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 24000.0,
+    "baseWeight": 0.36,
+    "seedPrice": 99.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Dragon Fruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 4750.0,
+    "baseWeight": 12.0,
+    "seedPrice": 50000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Dragon Pepper",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 81000.0,
+    "baseWeight": 6.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Durian",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 7500.0,
+    "baseWeight": 8.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Easter Egg",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 2500.0,
+    "baseWeight": 3.0,
+    "seedPrice": 500000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Eggplant",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 12000.0,
+    "baseWeight": 5.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Elephant Ears",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 77000.0,
+    "baseWeight": 18.0,
+    "seedPrice": 199.0,
+    "rarity": "[[File:PrismaticTier.gif|frameless|108x108px]]"
   },
   {
     "name": "Ember Lily",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 66666.0,
+    "baseWeight": 12.0,
+    "seedPrice": 15000000.0,
+    "rarity": "[[File:PrismaticTier.gif|frameless|108x108px]]"
   },
   {
     "name": "Feijoa",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 13000.0,
+    "baseWeight": 10.0,
+    "seedPrice": 2750000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Firefly Fern",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 72000.0,
+    "baseWeight": 5.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Firework Flower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 151000.0,
+    "baseWeight": 20.0,
+    "seedPrice": 150000.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Fossilight",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 89000.0,
+    "baseWeight": 4.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Foxglove",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 20000.0,
+    "baseWeight": 2.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Glowshroom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 300.0,
+    "baseWeight": 0.75,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Grape",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 7850.0,
+    "baseWeight": 3.0,
+    "seedPrice": 850000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Green Apple",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 300.0,
+    "baseWeight": 3.0,
+    "seedPrice": 3500.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Guanabana",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 70500.0,
+    "baseWeight": 4.0,
+    "seedPrice": 779.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Hive Fruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 62000.0,
+    "baseWeight": 8.0,
+    "seedPrice": 599.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Honeysuckle",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 100000.0,
+    "baseWeight": 12.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Horned Dinoshroom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 69000.0,
+    "baseWeight": 5.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Ice Cream Bean",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 4500.0,
+    "baseWeight": 4.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "Mythical"
   },
   {
     "name": "Kiwi (Crop)",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 2750.0,
+    "baseWeight": 5.0,
+    "seedPrice": 10000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Lavender",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 25000.0,
+    "baseWeight": 0.28,
+    "seedPrice": 99.0,
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Lemon",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 350.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Liberty Lily",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 30000.0,
+    "baseWeight": 6.5,
+    "seedPrice": 650000.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Lilac",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 35000.0,
+    "baseWeight": 3.0,
+    "seedPrice": 199.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Lily Of The Valley",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 49120.0,
+    "baseWeight": 6.0,
+    "seedPrice": 639.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Lime",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 350.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "Mythical"
   },
   {
     "name": "Loquat",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 8000.0,
+    "baseWeight": 6.5,
+    "seedPrice": 900000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Lotus",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 35000.0,
+    "baseWeight": 20.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Lumira",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 85000.0,
+    "baseWeight": 6.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Mango",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 6500.0,
+    "baseWeight": 15.0,
+    "seedPrice": 100000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Manuka Flower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 25000.0,
+    "baseWeight": 0.3,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Mega Mushroom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 500.0,
+    "baseWeight": 70.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Mint",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 5250.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Moon Blossom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 66666.0,
+    "baseWeight": 3.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Moon Mango",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 60000.0,
+    "baseWeight": 15.0,
+    "seedPrice": 1000000000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Moon Melon",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 18000.0,
+    "baseWeight": 8.0,
+    "seedPrice": 500000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Moonflower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 9500.0,
+    "baseWeight": 2.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Moonglow",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 25000.0,
+    "baseWeight": 7.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Mushroom",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 151000.0,
+    "baseWeight": 25.0,
+    "seedPrice": 150000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Nectar Thorn",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 40111.0,
+    "baseWeight": 7.0,
+    "seedPrice": 659.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Nectarine",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 48000.0,
+    "baseWeight": 3.0,
+    "seedPrice": 399.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Nectarshade",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 50000.0,
+    "baseWeight": 0.8,
+    "seedPrice": 139.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Nightshade",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 3500.0,
+    "baseWeight": 0.5,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Noble Flower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 20000.0,
+    "baseWeight": 5.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "Rare"
   },
   {
     "name": "Orange Tulip",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 850.0,
+    "baseWeight": 0.05,
+    "seedPrice": 600.0,
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Papaya",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 1000.0,
+    "baseWeight": 3.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Paradise Petal",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 25000.0,
+    "baseWeight": 2.75,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Parasol Flower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 200000.0,
+    "baseWeight": 6.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Passionfruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 3550.0,
+    "baseWeight": 3.0,
+    "seedPrice": 199.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Peace Lily",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 24000.0,
+    "baseWeight": 0.6,
+    "seedPrice": 129.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Peach",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 300.0,
+    "baseWeight": 2.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Pear",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 20000.0,
+    "baseWeight": 3.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Pepper",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 8000.0,
+    "baseWeight": 5.0,
+    "seedPrice": 1000000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Pineapple",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 2000.0,
+    "baseWeight": 3.0,
+    "seedPrice": 7500.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Pink Lily",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 65000.0,
+    "baseWeight": 6.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Pink Tulip",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 850.0,
+    "baseWeight": 0.05,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:CommonIcon.png|111px]]"
   },
   {
     "name": "Pitcher Plant",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 32000.0,
+    "baseWeight": 12.0,
+    "seedPrice": 7500000.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Prickly Pear",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 7000.0,
+    "baseWeight": 7.0,
+    "seedPrice": 555000.0,
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Pumpkin",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 3400.0,
+    "baseWeight": 8.0,
+    "seedPrice": 3000.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Purple Cabbage",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 500.0,
+    "baseWeight": 5.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "Unknown"
   },
   {
     "name": "Purple Dahlia",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 75000.0,
+    "baseWeight": 12.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Mythical_Icon.png|111px]]"
   },
   {
     "name": "Rafflesia",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 3500.0,
+    "baseWeight": 8.0,
+    "seedPrice": 3200.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Raspberry",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 100.0,
+    "baseWeight": 0.75,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Red Lollipop",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 50000.0,
+    "baseWeight": 4.0,
+    "seedPrice": 45000.0,
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Rose",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 5000.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Rosy Delight",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 69000.0,
+    "baseWeight": 10.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Soul Fruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 7750.0,
+    "baseWeight": 25.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Starfruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 15000.0,
+    "baseWeight": 3.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Stonebite",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 35000.0,
+    "baseWeight": 1.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   },
   {
     "name": "Strawberry",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 15.0,
+    "baseWeight": 0.3,
+    "seedPrice": 50.0,
+    "rarity": "[[File:CommonIcon.png|111px]]"
   },
   {
     "name": "Succulent",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 25000.0,
+    "baseWeight": 5.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Sugar Apple",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 50000.0,
+    "baseWeight": 9.0,
+    "seedPrice": 25000000.0,
+    "rarity": "[[File:PrismaticTier.gif|frameless|108x108px]]"
   },
   {
     "name": "Suncoil",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 80000.0,
+    "baseWeight": 10.0,
+    "seedPrice": 749.0,
+    "rarity": "Mythical"
   },
   {
     "name": "Sunflower",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 160000.0,
+    "baseWeight": 16.5,
     "seedPrice": 0.0,
-    "rarity": ""
-  },
-  {
-    "name": "Template:Crop/preload",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Tomato",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 30.0,
+    "baseWeight": 0.5,
+    "seedPrice": 800.0,
+    "rarity": "[[File:RareIcon.png|111px]]"
   },
   {
     "name": "Traveler's Fruit",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 70000.0,
+    "baseWeight": 15.0,
+    "seedPrice": 749.0,
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Venus Fly Trap",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 85000.0,
+    "baseWeight": 10.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:Divine.png|111px]]"
   },
   {
     "name": "Violet Corn",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 50000.0,
+    "baseWeight": 3.0,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Watermelon",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
-  },
-  {
-    "name": "White Mulberry",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
-    "seedPrice": 0.0,
-    "rarity": ""
+    "basePrice": 3000.0,
+    "baseWeight": 7.0,
+    "seedPrice": 2500.0,
+    "rarity": "[[File:LegendaryIcon.png|111px]]"
   },
   {
     "name": "Wild Carrot",
-    "basePrice": 0.0,
-    "baseWeight": 0.0,
+    "basePrice": 25000.0,
+    "baseWeight": 0.3,
     "seedPrice": 0.0,
-    "rarity": ""
+    "rarity": "[[File:UncommonIcon.png|111px]]"
   }
 ]
